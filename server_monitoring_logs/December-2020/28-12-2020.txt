@@ -1,0 +1,46 @@
+
+
+-------------------- Start --------------------
+
+-------------------- 28-12-2020 10:50:21 --------------------
+
+thailand :: 28-12-2020 10:50:21 203.130.133.165 --- cpanel server is up.
+thailand :: 28-12-2020 10:50:21 203.130.133.166 --- server is up.
+thailand :: 28-12-2020 10:50:21 203.130.133.166 --- tomacat-7 java is up.
+thailand :: 28-12-2020 10:50:21 203.130.133.166 --- apache php-5.6 is up.
+thailand :: 28-12-2020 10:50:21 203.130.133.167 --- server is up.
+thailand :: 28-12-2020 10:50:21 203.130.133.167 --- tomacat-8 java is up.
+thailand :: 28-12-2020 10:50:21 203.130.133.168 --- server is up.
+thailand :: 28-12-2020 10:50:21 203.130.133.168 --- apache php-7 is up.
+thailand :: 28-12-2020 10:50:21 203.130.133.168 --- tomacat-8 java is up.
+mmu :: 28-12-2020 10:50:22 gpst.billingdil.com --- domain is up.
+mmu :: 28-12-2020 10:50:22 gpst.billingdil.com --- apache php-5.6 is up.
+mmu :: 28-12-2020 10:50:22 gpst.billingdil.com --- tomacat-8 java is up.
+
+-------------------- 28-12-2020 10:50:22 --------------------
+
+-------------------- End --------------------
+
+
+
+-------------------- Start --------------------
+
+-------------------- 28-12-2020 10:50:39 --------------------
+
+thailand :: 28-12-2020 10:50:39 203.130.133.165 --- cpanel server is up.
+thailand :: 28-12-2020 10:50:39 203.130.133.166 --- server is up.
+thailand :: 28-12-2020 10:50:39 203.130.133.166 --- tomacat-7 java is up.
+thailand :: 28-12-2020 10:50:39 203.130.133.166 --- apache php-5.6 is up.
+thailand :: 28-12-2020 10:50:39 203.130.133.167 --- server is up.
+thailand :: 28-12-2020 10:50:39 203.130.133.167 --- tomacat-8 java is up.
+thailand :: 28-12-2020 10:50:39 203.130.133.168 --- server is up.
+thailand :: 28-12-2020 10:50:39 203.130.133.168 --- apache php-7 is up.
+thailand :: 28-12-2020 10:50:40 203.130.133.168 --- tomacat-8 java is up.
+mmu :: 28-12-2020 10:50:40 gpst.billingdil.com --- domain is up.
+mmu :: 28-12-2020 10:50:40 gpst.billingdil.com --- apache php-5.6 is up.
+mmu :: 28-12-2020 10:50:40 gpst.billingdil.com --- tomacat-8 java is up.
+
+-------------------- 28-12-2020 10:50:40 --------------------
+
+-------------------- End --------------------
+
