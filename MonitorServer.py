@@ -93,6 +93,10 @@ if __name__ == "__main__":
         Server("gpst.billingdil.com", 80, "ping", "high","MMU","Domain",mail_recipients_system_team),
         Server("gpst.billingdil.com", 80, "plain", "high","MMU","Apache PHP-5.6",mail_recipients_system_team),
         Server("gpst.billingdil.com", 8088, "plain", "high","MMU","Tomacat-8 JAVA",mail_recipients_system_team),
+        Server("163.47.146.233", 80, "ping", "high","ATI","ATI Router Real IP",mail_recipients_system_team),
+        Server("202.51.177.129", 80, "ping", "high","Unit-1","Unit-1 Router Real IP",mail_recipients_system_team),
+        Server("202.51.189.217", 80, "ping", "high","MMU","MMU Router Real IP",mail_recipients_system_team),
+        Server("192.168.0.12", 80, "ping", "high","ATI","ATI Temporary Local IP",mail_recipients_system_team),
     ]
     file_name = datetime.now().strftime("%d-%m-%Y")+".txt"
     path = "server_monitoring_logs/"+datetime.now().strftime("%B-%Y")+"/"

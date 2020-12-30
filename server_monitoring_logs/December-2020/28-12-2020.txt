@@ -44,3 +44,84 @@ mmu :: 28-12-2020 10:50:40 gpst.billingdil.com --- tomacat-8 java is up.
 
 -------------------- End --------------------
 
+
+
+-------------------- Start --------------------
+
+-------------------- 28-12-2020 15:05:37 --------------------
+
+thailand :: 28-12-2020 15:05:37 203.130.133.165 --- cpanel server is up.
+thailand :: 28-12-2020 15:05:38 203.130.133.166 --- server is up.
+thailand :: 28-12-2020 15:05:38 203.130.133.166 --- tomacat-7 java is up.
+thailand :: 28-12-2020 15:05:38 203.130.133.166 --- apache php-5.6 is up.
+thailand :: 28-12-2020 15:05:38 203.130.133.167 --- server is up.
+thailand :: 28-12-2020 15:05:38 203.130.133.167 --- tomacat-8 java is up.
+thailand :: 28-12-2020 15:05:38 203.130.133.168 --- server is up.
+thailand :: 28-12-2020 15:05:38 203.130.133.168 --- apache php-7 is up.
+thailand :: 28-12-2020 15:05:38 203.130.133.168 --- tomacat-8 java is up.
+mmu :: 28-12-2020 15:05:38 gpst.billingdil.com --- domain is up.
+mmu :: 28-12-2020 15:05:38 gpst.billingdil.com --- apache php-5.6 is up.
+mmu :: 28-12-2020 15:05:38 gpst.billingdil.com --- tomacat-8 java is up.
+ati :: 28-12-2020 15:05:38 163.47.146.233 --- ati router real ip is up.
+unit-1 :: 28-12-2020 15:05:38 202.51.177.129 --- unit-1 router real ip is up.
+mmu :: 28-12-2020 15:05:38 202.51.189.217 --- mmu router real ip is up.
+ati :: 28-12-2020 15:05:38 192.168.0.12 --- ati temporary local ip is down.
+
+-------------------- 28-12-2020 15:06:03 --------------------
+
+-------------------- End --------------------
+
+
+
+-------------------- Start --------------------
+
+-------------------- 28-12-2020 15:07:24 --------------------
+
+thailand :: 28-12-2020 15:07:24 203.130.133.165 --- cpanel server is up.
+thailand :: 28-12-2020 15:07:24 203.130.133.166 --- server is up.
+thailand :: 28-12-2020 15:07:24 203.130.133.166 --- tomacat-7 java is up.
+thailand :: 28-12-2020 15:07:25 203.130.133.166 --- apache php-5.6 is up.
+thailand :: 28-12-2020 15:07:25 203.130.133.167 --- server is up.
+thailand :: 28-12-2020 15:07:25 203.130.133.167 --- tomacat-8 java is up.
+thailand :: 28-12-2020 15:07:25 203.130.133.168 --- server is up.
+thailand :: 28-12-2020 15:07:25 203.130.133.168 --- apache php-7 is up.
+thailand :: 28-12-2020 15:07:25 203.130.133.168 --- tomacat-8 java is up.
+mmu :: 28-12-2020 15:07:25 gpst.billingdil.com --- domain is up.
+mmu :: 28-12-2020 15:07:25 gpst.billingdil.com --- apache php-5.6 is up.
+mmu :: 28-12-2020 15:07:25 gpst.billingdil.com --- tomacat-8 java is up.
+ati :: 28-12-2020 15:07:25 163.47.146.233 --- ati router real ip is up.
+unit-1 :: 28-12-2020 15:07:25 202.51.177.129 --- unit-1 router real ip is up.
+mmu :: 28-12-2020 15:07:25 202.51.189.217 --- mmu router real ip is up.
+ati :: 28-12-2020 15:07:25 192.168.0.12 --- ati temporary local ip is down.
+
+-------------------- 28-12-2020 15:07:37 --------------------
+
+-------------------- End --------------------
+
+
+
+-------------------- Start --------------------
+
+-------------------- 28-12-2020 15:11:44 --------------------
+
+thailand :: 28-12-2020 15:11:44 203.130.133.165 --- cpanel server is up.
+thailand :: 28-12-2020 15:11:44 203.130.133.166 --- server is up.
+thailand :: 28-12-2020 15:11:44 203.130.133.166 --- tomacat-7 java is up.
+thailand :: 28-12-2020 15:11:44 203.130.133.166 --- apache php-5.6 is up.
+thailand :: 28-12-2020 15:11:44 203.130.133.167 --- server is up.
+thailand :: 28-12-2020 15:11:44 203.130.133.167 --- tomacat-8 java is up.
+thailand :: 28-12-2020 15:11:44 203.130.133.168 --- server is up.
+thailand :: 28-12-2020 15:11:44 203.130.133.168 --- apache php-7 is up.
+thailand :: 28-12-2020 15:11:45 203.130.133.168 --- tomacat-8 java is up.
+mmu :: 28-12-2020 15:11:45 gpst.billingdil.com --- domain is up.
+mmu :: 28-12-2020 15:11:45 gpst.billingdil.com --- apache php-5.6 is up.
+mmu :: 28-12-2020 15:11:45 gpst.billingdil.com --- tomacat-8 java is up.
+ati :: 28-12-2020 15:11:45 163.47.146.233 --- ati router real ip is up.
+unit-1 :: 28-12-2020 15:11:45 202.51.177.129 --- unit-1 router real ip is up.
+mmu :: 28-12-2020 15:11:45 202.51.189.217 --- mmu router real ip is up.
+ati :: 28-12-2020 15:11:45 192.168.0.12 --- ati temporary local ip is down.
+
+-------------------- 28-12-2020 15:11:49 --------------------
+
+-------------------- End --------------------
+
